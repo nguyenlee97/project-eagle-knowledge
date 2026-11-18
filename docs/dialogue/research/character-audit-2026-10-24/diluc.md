@@ -1,0 +1,116 @@
+# Diluc: blind research dossier and frozen probes
+
+**Research date:** 2026-10-24. **Coverage assumption:** Traveler/Aether and Diluc share prior Mondstadt/Dvalin history; the world has advanced through version 7.1. This dossier was researched before inspecting the app's Diluc pack or any generated answer.
+
+## Source handling and confidence
+
+The best accessible sources for exact game facts were character-story/voice-over pages maintained by Genshin community databases. Those pages reproduce primary game text but remain third-party hosts, so they are not the same as direct in-game verification. HoYoverse's official manga page loaded but exposed no readable page text to this research tool. The official Version 7.1 announcement was accessible in search, but describes the event at release-preview level; it does not establish Diluc's involvement. The Moriasmoday character page is an editorial recap/index in Vietnamese, helpful for locating interactions, but its narrative gloss is not treated as primary evidence. Fandom pages could not be opened directly (HTTP 402/robots restrictions); search excerpts only were used sparingly. No full transcript is reproduced here.
+
+## Canon dossier
+
+### Identity and chronology
+
+Diluc Ragnvindr is Dawn Winery's master and a Mondstadt protector who acts as the Darknight Hero. Official HoYoverse's Mondstadt character page calls him the wealthiest gentleman in Mondstadt; the character profile text on Honey Hunter identifies his ties to Dawn Winery and details his former Knights service. The community-wiki recap calls him a former Cavalry Captain and notes his father Crepus's wish that he become an excellent knight. Avoid relying on a contested exact age unless the app sources it directly.
+
+Before the main story, Diluc served in the Knights of Favonius and became a captain. During an attack by Ursa, Crepus used a Delusion and died from its backlash shortly afterward. Inspector Eroch instructed Diluc to conceal what happened for the Knights' reputation; Diluc saw this as a betrayal of the faith he had placed in the institution, resigned and left his Vision behind. He left Mondstadt to investigate the power that killed Crepus and found the Delusion's connection to the Fatui. The official game profile does not make resignation a simple personality-driven dislike of rules: grief and Eroch's order are central. Exact details about whether Diluc personally ended Crepus's suffering have been contradicted across secondary retellings/manga depictions; do not state a disputed version as settled fact.
+
+After traveling, he returned to Mondstadt and resumed the winery's affairs. He operates as the Darknight Hero, gathering information through tavern and informant networks and acting against threats himself. In the opening Dvalin crisis, he shares relevant information and works with the Traveler, Jean and Venti; prior cooperation does not imply he rejoined the Knights or surrendered his independent methods.
+
+### Values and stance
+
+The character stories put faith, duty, protection of Mondstadt, truth-seeking and acting against evil at the center of Diluc's choices. He distrusts institutional slowness and secrecy after Eroch, and sees independent action as necessary. This is not evidence that he hates every Knight: his own voice lines discuss Jean and Lisa with respect, and Varka's line says he still hopes Diluc will return while respecting his freedom to refuse. Diluc believes Jean's exceptional responsibility can keep her from seeing her own calling; this is an affectionate/critical assessment of her burdens, not proof of enmity. He can cooperate pragmatically with Knights and the Traveler while remaining outside the order.
+
+### Crepus, Kaeya, Jean and the Knights
+
+Crepus was Diluc's father and the person whose praise meant most to him in youth. Crepus wanted him to become a knight; Diluc fulfilled that expectation. The loss therefore concerns both his father and the values/faith attached to his service, rather than only a workplace dispute.
+
+Kaeya was taken in by Crepus and raised as Diluc's adoptive brother. After Crepus's death, Kaeya revealed his Khaenri'ahn mission to Diluc; the ensuing fight severely strained their relationship. Later Hidden Strife letters show that they still communicated, exchanged care masked by brusque remarks, and could discuss coordination against threats. Those letters do not justify portraying them as either uncomplicated enemies or fully reconciled. The Diluc voice-over says Kaeya's words should only be believed halfway, preserving his guarded, teasing skepticism.
+
+Jean is an individual Diluc can assess separately from the Knights as an institution. His line praises her sense of responsibility while suggesting it burdens her; it is a perspective on her work, not a claim he wants her to abandon Mondstadt. Varka acknowledges that Diluc may refuse rejoining and keeps asking anyway. The Knights include people he respects, but institutional failures remain a source of lasting resentment.
+
+### Work, alcohol and disclosure
+
+Diluc owns and manages a winery yet personally dislikes alcohol's mouthfeel and says grape juice is his drink of choice. The profile text also describes the winery producing non-alcoholic options. This is a personal preference, not a contradiction, and should not be generalized into inexperience with wine production or disdain for Mondstadt's wine culture. One Snezhnayan business anecdote in the wiki says Diluc drank Fire-Water to honor guests, became badly intoxicated and later declined the partnership; this is secondary-hosted character-story material and not necessary to evaluate his basic preference.
+
+With the Traveler, later familiarity is shown through direct teamwork and trust with information: in the Darknight Hero story quest he asks the Traveler not to reveal his identity to the Knights; in the Hidden Strife event he lets the Traveler read relevant old letters, and Adelinde calls the Traveler part of Diluc's inner circle. He remains concise and guarded, but does not need to treat an already trusted Aether as a stranger. Disclosure should be contextual: candid about his own choices, careful about private history and other people's secrets, and never inventing confidence or intimacy beyond the shared timeline.
+
+### Current-world boundary for this audit
+
+The current setting includes the Traveler's shared Dvalin history with Diluc and the post-7.1 world event. The official 7.1 release material frames the Snezhnaya storyline around Ronova, but does not establish that Diluc witnessed it or has privileged direct knowledge. Treat a report from Aether as secondhand from Diluc's perspective. The probe must not presume Diluc personally saw Ronova, and must not assert a definitive final fate for her.
+
+## Sources
+
+1. [HoYoverse — Mondstadt character page](https://genshin.hoyoverse.com/m/en/character/mondstadt) — official character presentation; confirms his public status and regional framing, not detailed psychological interpretation.
+2. [Honey Hunter — Diluc character data](https://genshin.honeyhunterworld.com/diluc_016/?lang=EN) — third-party database page reproducing in-game character stories, voice-overs and preferences; primary game text hosted by community site. Relevant to Crepus, Eroch, resignation, Delusion investigation, Jean/Kaeya lines, and grape juice/alcohol statements. Open request returned 403, but search indexing exposed the relevant text.
+3. [Genshin Impact Wiki — Diluc storyline](https://genshin-impact.fandom.com/wiki/Diluc/Storyline) — community transcription/summary. Useful for cross-referencing chronology and later lore; inaccessible directly in this session (402), so relied only on search excerpts and did not use editorial conclusions as sole evidence.
+4. [Genshin Impact Wiki — Hidden Strife story](https://genshin-impact.fandom.com/wiki/Hidden_Strife/Story) — community transcription of in-game letters. Search results expose later correspondence and show continued contact/guarded cooperation; full page was inaccessible directly (402).
+5. [HoYoverse — Manga, Chapter 2: Flame Born](https://genshin.hoyoverse.com/en/manga/detail/104866?mute=1) — official manga page; page loaded but text/images were not extractable here. Not used to resolve conflicting accounts.
+6. [HoYoverse — Version 7.1 announcement](https://genshin.hoyoverse.com/th/news/detail/166200) — official release page, Thai localized. Search snippet identifies the version 7.1 event story, but does not establish Diluc's eyewitness role.
+7. [Moria's Moday — Diluc character index](https://www.moriasmoday.com/characters/diluc) — editorial Vietnamese character/event recap. Useful for discovery across character stories, events and voice lines; not a primary source. Search-indexed page mentions his father, resignation, journey, winery, and event/character interactions. Direct page timed out.
+8. [Genshin Impact Wiki — Diluc's Story Quest: Darknight Hero's Alibi](https://genshin-impact.fandom.com/wiki/Darknight_Hero%27s_Alibi) — community transcription/summary of game quest; search excerpt supports the Traveler discovering Diluc's identity and being asked not to tell the Knights. Direct page was not opened due Fandom access restriction.
+
+## Frozen probes
+
+The machine-readable source of truth is `staging/project-eagle/character-independent-audit-20261024/diluc/probes.json`. Four core calls only; two reserves stay unexecuted. Prompts are English, avoid a grape-juice smoke test, and make no claim about Ronova's final state.
+
+## Post-freeze current-pack map (read after probe freeze)
+
+This is a content inventory, not an evaluation of generated answers. The live app has not been called by this agent.
+
+- `tools/eagle-character-chat/content/characters/diluc.json` has a fairly detailed voice rule and low-stakes winery/city seeds, including an explicit grape-juice/alcohol reply (node `work_talk`, `diluc_drink_preference`). It has one generic former-Knight answer, but that seed omits Crepus, Delusion, Eroch's cover-up order, and the actual trigger for resignation. Its stored `knowledge_policy` says to use only the curated Mondstadt starter pack and says Version 7.1 coverage is incomplete. This is a static file observation only; it does not establish that the current cognition-enabled `Engine.context` injects this field or that it affected any answer.
+- `tools/eagle-character-chat/content/cognition/diluc.json` has only one biography item and one shared-history item: Dvalin. It contains practical-protection values and a direct line that Diluc can discuss the post-7.1 Ronova event without eyewitness claims. It does not contain Diluc-specific records for Crepus, Eroch, resignation, the Delusion hunt, Kaeya's confession/later letters, Jean, Varka, or the boundary between institutional resentment and individual respect.
+- `tools/eagle-character-chat/content/cognition/world.json` and `content/world.json` establish the post-7.1 setting, named Snezhnaya/Ronova confrontation, and unresolved final status; the world file explicitly says setting knowledge does not make it universal public knowledge. The world cognition includes ample world-level context, but the character-level history gap remains.
+- There is a static content-level difference to keep in view: the stored character-pack `knowledge_policy` says 7.1 coverage is incomplete, while Diluc's cognition block explicitly permits the selected 7.1 update as conversation context and world files include the event. The coordinator notes current cognition-enabled `Engine.context` does not inject the legacy `knowledge_policy`; therefore do not attribute a live response to this file without the saved assembled-message trace. Judge event handling from the actual per-case messages and answer. A fabricated eyewitness claim would be an answer behavior failure if the saved trace supplied the no-eyewitness boundary.
+
+### Preliminary expectation-to-pack coverage
+
+| Probe | Present in pack | Gap / interpretation to test |
+| --- | --- | --- |
+| Biography and why he left | Generic `former_knight` seed; profile sources referenced | Triggering chronology and emotional stakes absent from character-specific cognition; likely content gap if model misses Eroch/Crepus. |
+| Crepus / Kaeya / Jean / Knights nuance | Voice/tone, generic institution lines; character cognition only general values | Relationship record absent; mistakes could be pack omission or broad model prior if response invents reconciliation/hate. |
+| Ronova perspective | Shared world records and Diluc-specific permission to reason cautiously | Stored character knowledge text differs from cognition knowledge, but runtime injection is unverified here; inspect assembled messages before attributing a refusal or other error. The boundary itself is present. |
+| Follow-up false premise | Same as above plus response context needs to carry scenario | No explicit first-person prompt memory is preauthored; assess whether the model corrects false premise from dialogue context and preserves the established epistemic boundary. |
+
+Awaiting the coordinator's saved four real responses before judging ability, retrieval, voice, or continuity.
+
+## Partial live review — `diluc_biography_01` (response 1/4)
+
+**Truth/behavior review first, against the frozen dossier:** Fail. The answer does not explain the sourced cause of Diluc's departure: Crepus died after using a Delusion, and Eroch's order to conceal the circumstances broke Diluc's faith and led him to resign. Instead it invents a prior bandit-camp raid delayed by a council debate and attributes the resignation to that event. It then collapses the chronology by saying he took over the winery and began covert work immediately; the game-profile chronology has him leave Mondstadt and investigate the Delusion/Fatui connection before returning. Finally it invents a secret departure scene involving ignored orders and stolen documents, and claims he kept this secret to protect the Knights' reputation. No such secret is supported by the cited profile/storyline text; the stated protective motive also clashes with the documented betrayal that prompted his resignation.
+
+The answer has one safe behavior: it responds as if speaking personally and invokes his private work in a secretive tone. However, that privacy framing becomes fabricated backstory when it supplies ungrounded specific actions, objects and motives. It is not merely a concise answer that omits detail. There is no need to infer whether he would disclose every detail: the reply claims concrete invented details as fact.
+
+**Frozen probe scoring:** required 0/3; forbidden-claim violation: invented unsupported secret history/motive (and a fabricated alternative resignation cause). No settled disputed claim about personally killing Crepus appears. Tone is superficially terse but the false specifics overwhelm the voice match.
+
+**Source basis:** the primary-game-text transcript on Honey Hunter says Crepus's Delusion killed him, Eroch required the incident be covered up, Diluc resigned and left his Vision, then left Mondstadt to investigate the Delusion/Fatui. Source [Honey Hunter — Diluc profile](https://genshin.honeyhunterworld.com/diluc_016/?lang=EN) (third-party host of game text; direct page blocked to this session, indexed text available). Cross-check [Diluc storyline](https://genshin-impact.fandom.com/wiki/Diluc/Storyline) is a community recap with in-game citations; page inaccessible directly, search excerpt corroborates chronology. This truth assessment intentionally precedes the prompt/context inspection below.
+
+**Assembled-context diagnosis (checked after the truth review):** the saved case context contains generic Diluc cognition (`diluc_practical_protection`, `diluc_cosmic_awareness`) and general Knights/Darknight-Hero lore, but no occurrences of `Crepus`, `Eroch`, `Delusion`, `resigned`, or father/cover-up history in the actual system message. It also has no `bandit camp`, council-debate, or stolen-document account. The per-case trace says `detail_status: matched`, `subject_entity_ids: []`, and all context trim counts are zero. The runtime system text says canonical biography and shared history are stable even when search is empty, but the actual supplied personal-history set is too thin for this biography probe. That is a real character-content coverage gap for the omission; the invented bandit/debate/secret-document story remains unsupported generation, not a missing-source inference. There is no assembled prompt evidence that the stored legacy `knowledge_policy` caused this answer.
+
+## Final truth-first review — remaining answers (reviewed before their assembled contexts)
+
+### `diluc_relationships_01` — Fail
+
+The reply gets the broad idea that Diluc can distinguish Jean/the Knights and retain independent action, but it makes a major identity error: it calls Crepus an old friend, then invents that Crepus has ties to the Fatui. Canon identifies Crepus as Diluc's father and the previous Dawn Winery master; the Delusion that killed him was made by the Fatui, which does not make Crepus a Fatui affiliate. The answer omits their adoptive brotherhood and the grief/confession that strained Diluc and Kaeya's relationship. Kaeya is characterized as merely a charming schemer; Jean as a manager whose orders Diluc conditionally follows. That misses the intimate and historically grounded relationships asked for. The statement that the Knights are the city's backbone is compatible with their public role, and Diluc's willingness to act independently is supported. It does not claim Diluc returned to the order.
+
+Frozen probe: required 1/4 at most (institutional nuance/cooperation only); forbidden-claim violation: false Crepus identity and Fatui tie. Evidence quotes: “Crepus is an old friend” and “his ties to the Fatui”. Sources: [Honey Hunter — Diluc profile](https://genshin.honeyhunterworld.com/diluc_016/?lang=EN) (Crepus is his father; Delusion/Fatui chronology), [Honey Hunter — Kaeya profile](https://genshin.honeyhunterworld.com/kaeya_015/?lang=EN) (adoption/Crepus relationship), [Hidden Strife letters](https://genshin-impact.fandom.com/wiki/Hidden_Strife/Story) (community transcription of later guarded correspondence), [Diluc voice-over index](https://genshin-impact.fandom.com/wiki/Diluc/Voice-Overs) (community transcript of his assessment of Jean and Kaeya).
+
+### `diluc_world_01` — Pass, with a minor voice/style issue
+
+The answer correctly says Diluc was not present, treats the confrontation as reported information, keeps Ronova's status unresolved, and considers Mondstadt's security conditionally rather than claiming a new direct threat. It asks for confirmation and keeps preparations ready, matching the practical protector lens. The formulation about “the balance of death across Teyvat” is abstract and broader than a grounded Diluc response needs, but it is posed as an unresolved possibility rather than asserted fact. The answer says “I heard the reports” rather than explicitly crediting Aether, but because Aether has just told him in the prompt, this is a safe paraphrase rather than a false source claim.
+
+Frozen probe: required 3/3; no forbidden-claim violation. Evidence quotes: “I wasn’t on the field” and “we still don’t know whether Ronova is truly gone”. Sources: [HoYoverse Version 7.1 update announcement](https://genshin.hoyoverse.com/th/news/detail/166200) (official release/event framing), [HoYoverse Bequest cutscene article](https://genshin.hoyoverse.com/m/en/news/detail/166643) (official post-event presentation), and the setting's unresolved-status primary/secondary source notes described above. The official announcement alone does not settle her fate; the no-eyewitness boundary comes from the supplied setting/probe, not a claim that the public announcement names Diluc.
+
+### `diluc_world_followup_01` — Pass, with a minor voice/style issue
+
+It directly corrects the fabricated eyewitness premise, distinguishes defeat from confirmed death, preserves the unresolved pillar question, and rejects the leap to complacency or sole reliance on the Knights. No definitive Ronova fate or eyewitness memory is asserted. The phrasing “the sources still leave her fate ambiguous” is meta and less natural for Diluc than a simple first-person correction, but the substance is careful and concise.
+
+Frozen probe: required 4/4; no forbidden-claim violation. Evidence quotes: “I didn’t see her fall” and “I won’t rely solely on the Knights”. Sources: [HoYoverse Version 7.1 update announcement](https://genshin.hoyoverse.com/th/news/detail/166200), [HoYoverse Bequest cutscene article](https://genshin.hoyoverse.com/m/en/news/detail/166643), and [Diluc profile/voice-over text](https://genshin.honeyhunterworld.com/diluc_016/?lang=EN) for the stance toward the Knights/institutional distinction.
+
+## Final assembled-context review — cases 2–4
+
+- **Relationships:** actual system message contains the user-supplied names Crepus, Kaeya and Jean only in the question; its canonical personal-history records do not mention Crepus, Kaeya, their adoption/family status, or their shared loss. Retrieved lore IDs are `knights_public_role`, `celestia_oversight`, `diluc_role`, and `four_shades_evidence`; no context trim occurred. The generic source pack is inadequate for the specific relationship question. It does not provide a Crepus-Fatui association, so the answer's “old friend” and Fatui tie are unsupported generation, not retrieval-backed. The answer partly covers institutional nuance from generic Diluc values and public Knights context.
+- **Ronova initial response:** the context includes the unresolved Ronova status record, world event, and general Mondstadt records; subject entity IDs include Ronova, Traveler and Mondstadt; no context trim occurred. The system explicitly says world events can be known without making the character an eyewitness. The reply follows that epistemic boundary and gives a practical security response. Its speculative cosmic framing is not required by the pack but is carefully modal.
+- **Ronova follow-up:** same scenario continues in the assembled history (four messages, including the initial user prompt and Diluc reply). Context again includes the Ronova uncertainty and Knights facts without trimming. The response correctly rejects the false eyewitness premise and doesn't inherit the user's asserted death as fact. Calling the source state “ambiguous” is accurate but slightly meta for Diluc's voice.
+
+## Overall qualitative readiness
+
+The current v0.2.1 character is **not reliable enough for canon-heavy Diluc role-play based on these four probes**: the standalone biography and relationship answers both fail, one with elaborate invented backstory and one with a false parentage/affiliation claim. The post-7.1 current-event pair is materially stronger: both answers preserve uncertainty and first-hand/second-hand boundaries, with only minor voice polish. This is a small qualitative probe set, not a broad benchmark or a claim about all conversations. Most actionable identified gap is missing character-specific biography and relationship grounding; do not treat the two successful world-event turns as evidence that Diluc's core canon profile is complete.

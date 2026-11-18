@@ -1,0 +1,45 @@
+# Project Eagle — .gitignore
+# Binary game files
+*.img
+*.txd
+*.dff
+*.col
+*.ipl
+*.ide
+*.asi
+*.exe
+*.dll
+*.rar
+*.zip
+*.7z
+*.tar.gz
+
+# Large media
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.ogg
+*.wav
+*.mp4
+
+# Databases & caches
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs & temp
+*.log
+*.jsonl
+*.tmp
+
+# Compiled binaries
+*.cs.bak
+*.bin
+
+# Secrets (extra safety)
+*.env
+secrets.py
